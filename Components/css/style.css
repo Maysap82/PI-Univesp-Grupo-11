@@ -1,0 +1,10 @@
+/* FONTS */
+@import url(../css/clash-display.css);
+
+/* Fundo */
+#fundo {
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
